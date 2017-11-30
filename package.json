@@ -62,7 +62,7 @@
         "winston": "^0.8.3"
     },
     "bugs": {
-        "url": "https://github.com/jansmolders86/mediacenterjs/issues"
+        "url": "https://github.com/snomofomo/mediacenterjs/issues"
     },
     "main": "index.js",
     "devDependencies": {},
@@ -70,9 +70,5 @@
         "mediacenter",
         "media"
     ],
-    "license": [
-        {
-            "type": "GPL-3.0"
-        }
-    ]
+    "license": "GPL-3.0"
 }
